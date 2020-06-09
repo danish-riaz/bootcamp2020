@@ -15,7 +15,7 @@ jobs:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
     env:
-      working-directory: ./02_create_react_app_02_june_2020 
+      working-directory: ./03_basic_react_app_06_june_2020
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -43,4 +43,4 @@ jobs:
       run: npm install --global surge
 
     - name: Deploy to Surge
-      run: surge ./02_create_react_app_02_june_2020/build 200bootcampgithubcd.surge.sh --token ${{ secrets.SURGE_TOKEN }}
+      run: surge ./03_basic_react_app_06_june_2020/build 200bootcampgithubcd.surge.sh --token ${{ secrets.SURGE_TOKEN }}

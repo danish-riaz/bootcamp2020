@@ -1,7 +1,7 @@
 # Bootcamp 2020
 Bootcamp 2020 - A Bootcamp By Sir Zia Khan &amp; his team.
 
-# HOST SITES OF THE REPO
+# HOSTING SITES
 For Daily Classes
 http://200bootcampgithubcd.surge.sh/
 

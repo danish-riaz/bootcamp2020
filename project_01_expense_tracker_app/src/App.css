@@ -1,0 +1,9 @@
+body {
+  background-color: #f7f7f7;
+}
+.center{
+  width: 75%;
+  height: 500px;
+  margin: 0 auto;
+  /* border: 1px solid; */
+}
